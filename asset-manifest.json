@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Business-growth-with-kishan/static/css/main.f3e34772.css",
+    "main.js": "/Business-growth-with-kishan/static/js/main.ffb9fb15.js",
+    "static/media/digital.jpg": "/Business-growth-with-kishan/static/media/digital.a43ae4a34aa544f68997.jpg",
+    "static/media/block.png": "/Business-growth-with-kishan/static/media/block.bca74fa227abc6c5b80a.png",
+    "static/media/home.png": "/Business-growth-with-kishan/static/media/home.b8a48c77e20e684a5b3e.png",
+    "static/media/mern.jpg": "/Business-growth-with-kishan/static/media/mern.4ecdd59dc98804cdb799.jpg",
+    "static/media/marketing.png": "/Business-growth-with-kishan/static/media/marketing.f37258474f2327336a3e.png",
+    "static/media/android.png": "/Business-growth-with-kishan/static/media/android.f48099e7b8011369b04d.png",
+    "static/media/soft.jpg": "/Business-growth-with-kishan/static/media/soft.613ca78f841a92549ae1.jpg",
+    "static/media/app.png": "/Business-growth-with-kishan/static/media/app.1709e5ff264efea94e2b.png",
+    "static/media/about.jpg": "/Business-growth-with-kishan/static/media/about.53bdf6e5fbb4ff3d71b6.jpg",
+    "static/media/nodata4.jpg": "/Business-growth-with-kishan/static/media/nodata4.06985906a6b0452c10df.jpg",
+    "static/media/testind.jpeg": "/Business-growth-with-kishan/static/media/testind.d465abbd7496c5b5d33d.jpeg",
+    "static/media/mean.jpeg": "/Business-growth-with-kishan/static/media/mean.d6d30aeca5679be1901b.jpeg",
+    "index.html": "/Business-growth-with-kishan/index.html",
+    "main.f3e34772.css.map": "/Business-growth-with-kishan/static/css/main.f3e34772.css.map",
+    "main.ffb9fb15.js.map": "/Business-growth-with-kishan/static/js/main.ffb9fb15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3e34772.css",
+    "static/js/main.ffb9fb15.js"
+  ]
+}
