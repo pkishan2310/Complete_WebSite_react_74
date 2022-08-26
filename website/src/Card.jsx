@@ -1,6 +1,5 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
-// import web from "./Images/img6.webp";
+// import { NavLink } from "react-router-dom";
 
 const Card = (props) => {
   return (
@@ -13,9 +12,9 @@ const Card = (props) => {
             <p className="card-text">
               
             </p>
-            <NavLink to="#" className="btn btn-primary">
+            {/* <NavLink to="https://www.netflix.com/in/title/80192098" className="btn btn-primary">
               Go somewhere
-            </NavLink>
+            </NavLink> */}
           </div>
         </div>
       </div>

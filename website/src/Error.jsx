@@ -10,9 +10,10 @@ const Error=()=>{
             <div className="info">
                 <h1>404 Error Page</h1>
                 <p>Sorry, This Page Does't Exist  !!!!</p>
-                <NavLink to="/">Goto Home page</NavLink>
+               
 
             </div>
+             <center><NavLink to="/">Goto Home page</NavLink></center>
            </div>
         </>
     )

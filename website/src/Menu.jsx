@@ -82,6 +82,18 @@ const Menu = () => {
                         Contact Us
                       </NavLink>
                     </li>
+
+                    <li className="nav-item">
+                      <NavLink
+                        to="/listdata"
+                        activeClassName="menu_active"
+                        className="nav-link"
+                      >
+                        ListData
+                      </NavLink>
+                    </li>
+
+
                   </ul>
                 </div>
               </div>
